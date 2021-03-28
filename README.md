@@ -1,6 +1,6 @@
 - 👋 Hey there, Pranav here :D
-- 👀 I’m interested in ... Web Development, 
-- 🌱 I’m currently learning ... HTML, CSS, JS, Python
+- 👀 I’m interested in Web Development and Competitive Programming. 
+- 🌱 I’m currently learning HTML, CSS, JS and Python
 
 <!---
 lilithfactor/lilithfactor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
