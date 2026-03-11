@@ -2,7 +2,7 @@
 
 * I ship and scale SaaS products, and ideate + architect productivity tools on the side, for fun.
 * I like getting into the weeds with code.
-* When not shipping: Learning, Joking around, Listening to music, Solving Rubik's cubes, or out in the nature touching grass (literally) 🌴.
+* When not shipping: learning, joking around, listening to music, solving Rubik's cubes, or out in the nature touching grass (literally) 🌴.
 
 ---
 
