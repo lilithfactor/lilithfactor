@@ -23,8 +23,16 @@
 #### **Dev Tools & Deploy**  
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
 
+---
+
+> **Just a reminder to take a moment to pause, breathe.** ⭐
+
+---
+
 ## 🌐 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)](https://linkedin.com/in/pranav-upadhyay) [![Portfolio](https://img.shields.io/badge/Notion-Portfolio-blue)](https://lilithfactor.notion.site/pranav-upadhyay) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pranav.upadhyay@gmail.com)
+
+---
 
 <!--[![](https://visitcount.itsvg.in/api?id=lilithfactor&icon=0&color=0)](https://visitcount.itsvg.in)-->
 
